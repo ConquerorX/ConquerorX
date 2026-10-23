@@ -83,12 +83,12 @@
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ConquerorX&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=1f2937&bg_color=0b0e18&title_color=22d3ee&icon_color=a855f7&text_color=9aa7bd" />
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConquerorX&layout=compact&langs_count=6&hide_border=false&border_color=1f2937&bg_color=0b0e18&title_color=22d3ee&text_color=9aa7bd" />
+<img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ConquerorX&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&border_color=1f2937&bg_color=0b0e18&title_color=22d3ee&icon_color=a855f7&text_color=9aa7bd" />
+<img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConquerorX&layout=compact&langs_count=6&hide_border=false&border_color=1f2937&bg_color=0b0e18&title_color=22d3ee&text_color=9aa7bd" />
 
 <br/>
 
-<img width="100%" alt="Streak" src="https://streak-stats.demolab.com?user=ConquerorX&hide_border=false&border=1f2937&background=0b0e18&stroke=1f2937&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee&sideLabels=9aa7bd&dates=5b677c&currStreakNum=eafcff&sideNums=eafcff" />
+<img height="150" alt="Streak" src="https://streak-stats.demolab.com?user=ConquerorX&hide_border=false&border=1f2937&background=0b0e18&stroke=1f2937&ring=22d3ee&fire=a855f7&currStreakLabel=22d3ee&sideLabels=9aa7bd&dates=5b677c&currStreakNum=eafcff&sideNums=eafcff" />
 
 </div>
 
