@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" fill="none" role="img" aria-label="Finans Rehberi">
+  <defs>
+    <linearGradient id="c2bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0b0e18"/><stop offset="1" stop-color="#0d0a14"/>
+    </linearGradient>
+    <linearGradient id="c2b" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10b981"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="c2t" x1="140" y1="60" x2="560" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eafff9"/><stop offset="1" stop-color="#6ee7b7"/>
+    </linearGradient>
+    <style>
+      .m { font-family: ui-monospace, "SFMono-Regular", "Cascadia Code", Menlo, Consolas, monospace; }
+      .s { font-family: "Segoe UI", Inter, -apple-system, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="178" rx="18" fill="url(#c2bg)" stroke="url(#c2b)" stroke-opacity="0.28"/>
+  <rect x="34" y="44" width="88" height="92" rx="16" fill="#0b1a17" stroke="#10b981" stroke-opacity="0.25"/>
+  <text x="78" y="100" text-anchor="middle" class="m" font-size="26" fill="#34d399">02</text>
+  <text x="152" y="72" class="s" font-size="27" font-weight="700" fill="url(#c2t)">Finans Rehberi</text>
+  <text x="152" y="104" class="s" font-size="15.5" fill="#9aa7bd">Türkiye'nin lisanslı fintek şirketleri ve bankaları için canlı, filtrelenebilir veri rehberi.</text>
+  <g>
+    <rect x="152" y="124" width="102" height="26" rx="8" fill="#ffffff" fill-opacity="0.05"/>
+    <text x="203" y="141" text-anchor="middle" class="m" font-size="11.5" fill="#6ee7b7">TypeScript</text>
+    <rect x="262" y="124" width="54" height="26" rx="8" fill="#ffffff" fill-opacity="0.05"/>
+    <text x="289" y="141" text-anchor="middle" class="m" font-size="11.5" fill="#9aa7bd">Vite</text>
+    <rect x="324" y="124" width="86" height="26" rx="8" fill="#ffffff" fill-opacity="0.05"/>
+    <text x="367" y="141" text-anchor="middle" class="m" font-size="11.5" fill="#9aa7bd">Live data</text>
+  </g>
+  <g stroke="#34d399" stroke-opacity="0.85" stroke-width="1.6" stroke-linecap="round">
+    <path d="M1116 98l22-22"/><path d="M1122 76h16v16"/>
+  </g>
+  <text x="1140" y="146" text-anchor="end" class="m" font-size="11" fill="#5b677c">conquerorx.github.io/finans-rehberi</text>
+</svg>
