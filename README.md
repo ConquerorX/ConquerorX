@@ -69,11 +69,11 @@
 
 ## `03` &nbsp;Diğer işler
 
-| Proje | Ne yapar | Stack |
-| :--- | :--- | :--- |
-| **[deprem-istasyon](https://github.com/ConquerorX/deprem-istasyon)** | Sade, hızlı bir deprem bilgi istasyonu. | `HTML` `JS` |
-| **[SideStore](https://github.com/ConquerorX/SideStore)** | Yan yükleme (sideloading) için tek sayfalık kurulum rehberi. | `HTML` |
-| **[antigravity](https://github.com/ConquerorX/antigravity)** | Google modellerini Claude CLI üzerinden yerelde çalıştırma rehberi — TR / EN. | `HTML` `Docs` |
+| Proje | Ne yapar | Canlı | Stack |
+| :--- | :--- | :---: | :--- |
+| **[deprem-istasyon](https://github.com/ConquerorX/deprem-istasyon)** | Sade, hızlı bir deprem bilgi istasyonu. | [aç ↗](https://conquerorx.github.io/deprem-istasyon/) | `HTML` `JS` |
+| **[SideStore](https://github.com/ConquerorX/SideStore)** | Yan yükleme (sideloading) için tek sayfalık kurulum rehberi. | [aç ↗](https://conquerorx.github.io/SideStore/) | `HTML` |
+| **[antigravity](https://github.com/ConquerorX/antigravity)** | Google modellerini Claude CLI üzerinden yerelde çalıştırma rehberi — TR / EN. | [aç ↗](https://conquerorx.github.io/antigravity/) | `HTML` `Docs` |
 
 <br/>
 
